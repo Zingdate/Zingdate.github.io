@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy policy</title>
+    <link rel="stylesheet" href="aboutus.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div class="bg">
+      <a href="/html/index.html"
+        ><img class="logo" src="/Assets/Images/logo.png" />
+      </a>
+    </div>
+    <div class="main">
+      <div class="abouttext">
+        <span>Privacy Policy </span>
+        Privacy Policy for Afrozing Date: 2023-11-07 Introduction This Privacy
+        Policy explains how Afrozing collects, uses, and discloses your personal
+        information. It also describes your choices regarding your personal
+        information and how to contact us. We collect your personal information
+        when you create an account, use the App to connect with other users, and
+        when you provide us with feedback or contact customer support. We use
+        your personal information to provide you with the services you request,
+        to improve the App, and to protect our users. We may also share your
+        personal information with third-party service providers who help us
+        provide the App.
+      </div>
+
+      <div class="abouttext">
+        <span> Information We Collect </span>
+        We collect the following personal information from you: Account
+        information: When you create an account, we collect your name, email
+        address, date of birth, and gender. Profile information: You may choose
+        to provide additional information in your profile, such as your photos,
+        interests, and location. Location information: We collect your
+        approximate location when you use the App to connect with other users.
+        We may also collect your precise location if you enable location sharing
+        in your device settings. Usage information: We collect information about
+        how you use the App, such as the features you use and the people you
+        connect with. Device information: We collect information about your
+        device, such as the type of device, operating system, and IP address.
+      </div>
+
+      <div class="abouttext">
+        <span> How We Use Your Information </span>
+        We use your personal information to:
+        <br />Provide you with the services you request, such as connecting you
+        with other users and allowing you to send and receive messages. <br />
+        Improve the App by understanding how you use it and what features are
+        important to you.
+        <br />Protect our users by detecting and preventing fraud and abuse.
+        <br />Send you promotional emails about the App and our other services.
+      </div>
+
+      <div class="abouttext">
+        <span> How We Share Your Information </span>
+        We may share your personal information with third-party service
+        providers who help us provide the App. These service providers may
+        include: Cloud computing providers who host our data and applications.
+        Payment processors who process your payments. Customer support providers
+        who help us respond to your inquiries. Analytics providers who help us
+        understand how you use the App. We may also share your personal
+        information with third parties if we are required to do so by law or if
+        we believe it is necessary to protect our users or the App.
+      </div>
+
+      <div class="abouttext">
+        <span>Your Choices </span>
+        You have the following choices regarding your personal information: You
+        can choose not to provide us with certain information, but this may
+        limit your ability to use the App. You can choose to opt out of
+        promotional emails by clicking the unsubscribe link in any email we send
+        you. You can choose to delete your account by contacting customer
+        support.
+      </div>
+
+      <div class="abouttext">
+        <span>Data Security </span>
+        We take steps to protect your personal information from unauthorized
+        access, use, or disclosure. However, no method of data transmission or
+        storage is completely secure. Changes to This Privacy Policy We may
+        update this Privacy Policy from time to time. If we make any significant
+        changes, we will notify you by email or by posting a notice on the App.
+        Contact Us
+      </div>
+
+      <div class="abouttext">
+        <span>Location Information</span>
+        We collect your location information to help you connect with other
+        users who are nearby. We also use your location information to improve
+        the App by understanding how you use it. You can choose to disable
+        location sharing in your device settings, but this will limit your
+        ability to use some of the features of the App.
+      </div>
+
+      <div class="abouttext">
+        <span>Play Store and App Store Compliance</span>
+        This Privacy Policy complies with the Google Play Store and App Store
+        privacy requirements. We collect and use your personal information only
+        in accordance with this Privacy Policy. We do not sell your personal
+        information to third parties.
+      </div>
+
+      <div class="abouttext">
+        We hope this Privacy Policy helps you understand how we collect, use,
+        and protect your personal information. If you have any questions, please
+        do not hesitate to contact us.
+      </div>
+      <div class="abouttext">
+        <span>Contact Us</span>
+        If you have any questions about this Privacy Policy, please contact us
+        at: afrozing@afrozing.com
+      </div>
+    </div>
+    <footer>
+      <div class="foot" id="foot">
+        <div class="grid_item">
+          <img class="footerlogo" src="/Assets/Images/logo.png" alt="logo" />
+        </div>
+
+        <div class="grid_item socials">
+          <a href="#" class="fa fa-facebook"></a>
+          <a href="#" class="fa fa-twitter"></a>
+          <a href="#" class="fa fa-linkedin"></a>
+          <a href="#" class="fa fa-youtube"></a>
+          <a href="#" class="fa fa-instagram"></a>
+        </div>
+
+        <div class="grid_item tag">Afrozing: All Rights Reserved.</div>
+      </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+  </body>
+</html>
